@@ -1,4 +1,4 @@
-my own version of an imgur client 
+My own version of an imgur client 
 
 made in React using Reflux, react-router and lodash
 
